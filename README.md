@@ -24,7 +24,7 @@ func GetBio() Bio {
 		"- 🌱 I’m currently learning":        "Golang",
 		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, Java, node.js, Distribute Daniel Of Service (DDOS),
+		"- 💬 Ask me about":                  "Python, Java, node.js, Distribute Daniel Of Service (DDOS)",
 		"- 📫 How to reach me:":              "discord: @drindez",
 	}
 }
